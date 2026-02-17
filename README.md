@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Pranam</h1>
-<h3 align="center">Aspiring AI Engineer | Java & Python Learner | Tech Enthusiast</h3>
+<h1 align="center">Hey there 👋, I'm Pranam</h1>
+<h3 align="center">A Data Science student|Aspiring Data Analyst| Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-F0F8FF?style=flat-square" />
@@ -12,10 +12,8 @@
 
 ## 🌟 About Me
 
-- 🎓 Student passionate about **Artificial Intelligence & Technology**
-- 💻 Currently learning **Java** and strengthening problem-solving skills
-- 🐍 Planning to master **Python** for AI development
-- 📊 Exploring **Excel & Power BI** for data analysis
+- 🎓 Student passionate about ** AI and Growing texh**
+- 💻 Currently focusing on improving my **skills** and strengthening problem-solving abilities 
 - 🚀 Goal: Build intelligent systems that solve real-world problems
 
 ---
@@ -48,7 +46,7 @@
 ## 📌 Current Focus
 
 ```text
-🔹 Java → Strong foundation
-🔹 Python → AI & Machine Learning
-🔹 Data Analysis → Excel & Power BI
+🔹 Power BI
+🔹 Python libraries
+🔹 Data Analys processes
 🔹 Building Real Projects
