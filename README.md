@@ -1,6 +1,8 @@
 ## Hi there 👋
 # 💫 About Me:
-Hey there,<br>I'm a student of Data Science and an Aspiring Data Analyst
+Hey there,<br>I'm a student of Data Science and also  an Aspiring Data Analyst
+
+, building strong foundations through a blend of academic study and self-learning. Focused on developing practical skills while actively exploring various tools and concepts used in real-world data analysis.
 
 
 ## 🌐 Socials:
