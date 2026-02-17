@@ -31,18 +31,6 @@
 
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&bg_color=ffffff&title_color=4682B4&icon_color=6CA6CD&text_color=000000" height="150"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=ffffff&title_color=4682B4&text_color=000000" height="150"/>
-</p>
-
----
-
 ## 📌 Current Focus
 
 ```text
