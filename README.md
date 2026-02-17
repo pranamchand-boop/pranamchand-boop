@@ -3,7 +3,7 @@
 <h3 align="center">A Data Science student|Aspiring Data Analyst| Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-F0F8FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-F0F8FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Learning-Everyday-FFFACD?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Building%20Projects-E6E6FA?style=flat-square" />
 </p>
