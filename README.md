@@ -1,13 +1,12 @@
-## Hi there 👋
-# 💫 About Me:
-Hey there,<br>I'm a student of Data Science and also  an Aspiring Data Analyst
+## welcome to my profile 👋
+# 💫 Hey there:
+<br>I'm a Data Science student and also  an Aspiring Data Analyst
 
-, building strong foundations through a blend of academic study and self-learning. Focused on developing practical skills while actively exploring various tools and concepts used in real-world data analysis.
+Currently building strong foundations through a blend of academic study and self-learning. Focused on developing practical skills while actively exploring various tools and concepts used in real-world data analysis.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Pranam chand) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pranam chand) 
-
+[![Instagram](https://www.instagram.com/pranam_chand?igsh=MXJhbjVteHR0ODd5dw==)](https://instagram.com/Pranam chand) [![LinkedIn](https://www.linkedin.com/in/pranamchand?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 # 📊 GitHub Stats:
